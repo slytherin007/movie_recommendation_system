@@ -26,7 +26,7 @@ Welcome to our Movie Recommendation System project! 🌟 This system is designed
     ```bash
     jupyter notebook
     ```
-    Open the `main.ipynb` file to start exploring and running the project.
+    Open the `main.py` file to start exploring and running the project.
 
 ## Requirements
 
